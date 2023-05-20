@@ -1,0 +1,17 @@
+.bannertextstyles {
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    color: dimgrey;
+}
+.bannerimage{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    img {
+        width: 100%;
+        overflow: hidden;
+    }
+    
+}
+
